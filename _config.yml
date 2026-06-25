@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Anjali Chandra / Assistant Professor"
+title                    : "Anjali Chandra"
 title_separator          : "-"
 name                     : &name "Anjali Chandra"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,10 +24,10 @@ repository               : "anjali-website"
 author:
   # Biographic information
   avatar           : "hero.png"
-  name             : "Your Sidebar Name"
+  name             : "Anjali Chandra"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Assistant Professor of Economics"
+  location         : ""
   employer         : "Washington College"
   uri              : # URL
   email            : "achandra2@washcoll.edu" 
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=yVRVQeQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
